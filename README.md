@@ -1,2 +1,2 @@
 # opcrawler
-crawler of op
+crawler for vnexpress stock news
