@@ -1,4 +1,4 @@
-api_key: "d0a2cc23a7dd4040a97a354d2f0e7387"
+api_key: ""
 query: "stock market OR finance OR investment"
 language: "en"
 max_articles: 100
