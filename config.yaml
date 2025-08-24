@@ -1,0 +1,11 @@
+api_key: "d0a2cc23a7dd4040a97a354d2f0e7387"
+query: "stock market OR finance OR investment"
+language: "en"
+max_articles: 100
+batch_size: 100
+max_total_articles: 500
+data_path: "data"
+processed_data_path: "processed_data"
+sql_path: "sql"
+checkpoint_file: "checkpoint.json"
+days_back: 14
